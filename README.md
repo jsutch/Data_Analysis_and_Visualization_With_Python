@@ -24,6 +24,12 @@
 - What endpoints are being found?
 - What web attacks are being used?
 
+**Analyzing San Francisco City Police and Fire Salaries for the years 2011-2014**
+- Do pay and benefits correlate in general?
+- Year by year breakdowns
+- Do Fire and Police make more money?
+- Does Seniority matter?
+
 **Analyzing Baseball Scores**
 This is a simple statsmodel stub
 
