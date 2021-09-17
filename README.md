@@ -31,6 +31,7 @@
 - Does Seniority matter?
 
 **Analyzing Baseball Scores**
-This is a simple statsmodel stub
+- This is a simple statsmodel stub
 
+The jupyter notebooks can be opened in Github by clicking on the notebook file. Might need a refresh to load depending on your browser.
 
